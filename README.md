@@ -1,5 +1,7 @@
 Stock Management System
+
 Ishimwe Kessy Dasia  25326
+
 ABOUT THE System:
 Stock Management System is a REST API built with Spring Boot, Spring Data manages Vendors, storekeepers, warehouses and product categories, records stock orders as they move from PLACED to DISPATCHED and then to RECIEVED or VOIDED, and logs each item checked into stock once an order is received.
 
