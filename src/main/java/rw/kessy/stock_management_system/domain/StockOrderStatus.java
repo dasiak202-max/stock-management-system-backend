@@ -1,5 +1,11 @@
 package rw.kessy.stock_management_system.domain;
 
-public class StockOrderStatus {
-    
+
+
+public enum  StockOrderStatus {
+    PLACED,
+    CONFIRMED,
+    SHIPPED,
+    DELIVERED,
+    VOIDED
 }
